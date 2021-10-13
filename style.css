@@ -1,9 +1,9 @@
 .flexdir{
-  flex-direction: row;
-  height: 10vh;
-  justify-content: center;
-  align-content: center;
-  justify-self: center;
-  margin:auto;
-  padding:0;
+  flex-direction: row !important;
+  height: 10vh !important;
+  justify-content: center !important;
+  align-content: center !important;
+  justify-self: center !important;
+  margin:auto !important;
+  padding:0 !important;
 }
